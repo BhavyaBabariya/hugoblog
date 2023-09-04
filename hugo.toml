@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Hugo | Bhavya Babariya'
+theme = 'ga-hugo-theme-master'
+paginate = 3
+
+[params]
+dateFormat = "sept 2, 2023,09:24AM"
