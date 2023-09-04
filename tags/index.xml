@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo | Bhavya Babariya</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Hugo | Bhavya Babariya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2023 11:41:22 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Sat, 02 Sep 2023 11:41:22 +0530</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Beautiful Pictures</title>
+      <link>http://example.org/tags/beautiful-pictures/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:32 +0530</pubDate>
+      
+      <guid>http://example.org/tags/beautiful-pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Image Rating</title>
+      <link>http://example.org/tags/image-rating/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:32 +0530</pubDate>
+      
+      <guid>http://example.org/tags/image-rating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sense Art</title>
+      <link>http://example.org/tags/sense-art/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:28 +0530</pubDate>
+      
+      <guid>http://example.org/tags/sense-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shooting Styles</title>
+      <link>http://example.org/tags/shooting-styles/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:28 +0530</pubDate>
+      
+      <guid>http://example.org/tags/shooting-styles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lighting</title>
+      <link>http://example.org/tags/lighting/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:23 +0530</pubDate>
+      
+      <guid>http://example.org/tags/lighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://example.org/tags/photography/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:23 +0530</pubDate>
+      
+      <guid>http://example.org/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photographer Interview</title>
+      <link>http://example.org/tags/photographer-interview/</link>
+      <pubDate>Tue, 29 Aug 2023 17:03:14 +0530</pubDate>
+      
+      <guid>http://example.org/tags/photographer-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live Match</title>
+      <link>http://example.org/tags/live-match/</link>
+      <pubDate>Tue, 29 Aug 2023 15:59:39 +0530</pubDate>
+      
+      <guid>http://example.org/tags/live-match/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spots</title>
+      <link>http://example.org/tags/spots/</link>
+      <pubDate>Tue, 29 Aug 2023 15:59:39 +0530</pubDate>
+      
+      <guid>http://example.org/tags/spots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
