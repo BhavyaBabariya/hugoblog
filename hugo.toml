@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'layouts/index.html'
 languageCode = 'en-us'
 title = 'Hugo | Bhavya Babariya'
 theme = 'ga-hugo-theme-master'
